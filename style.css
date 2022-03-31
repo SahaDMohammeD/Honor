@@ -204,7 +204,6 @@ body{
     width: 150px;
     height: 30px;
     background-color: transparent;
-    border: 0;
     display: flex;
     justify-content: space-between;
     margin-left: 200px;
@@ -230,7 +229,6 @@ body{
     width: 150px;
     height: 30px;
     background-color: transparent;
-    border: 0;
     display: flex;
     justify-content: space-between;
     margin-left: 200px;
@@ -238,6 +236,83 @@ body{
 .img-watch{
     /* width: 50%; */
     height: 400px;
-    background: url(home-feature-product-gspro.png) no-repeat ;
+    background: url(home-feature-product-gspro.png) no-repeat center;
     background-color: #fff;
+}
+
+.second-home .main{
+    width: 100%;
+    height: 600px;
+    background-color: #fff;
+    display: flex;
+}
+.router{
+    width: 50%;
+    height: 600px;
+    background-color: #fff;
+}
+.router h3{
+    padding-left: 180px;
+    font-size: x-large;
+    color: rgba(0,0,0,0.4);
+}
+.btnsecond1{
+    width: 150px;
+    height: 30px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+.img-router{
+    /* width: 50%; */
+    height: 390px;
+    background: url(home-feature-product-router3-2.png) no-repeat ;
+    background-color: #fff;
+}
+
+.earbud{
+    width: 50%;
+    height: 600px;
+    background-color: #fff;
+}
+.earbud h3{
+    padding-left: 180px;
+    font-size: x-large;
+    color: rgba(0,0,0,0.4);
+}
+.btnsecond1{
+    width: 150px;
+    height: 30px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+.img-earbud{
+    /* width: 50%; */
+    height: 400px;
+    background: url(home-feature-product-honor-earbuds-3-pro.png) no-repeat ;
+    background-color: #fff;
+}
+.explore{
+    width: 100%;
+    height: 200px;
+    background: black;
+    color: #fff;
+    padding-top: 130px;
+}
+.explore-img{
+    width: 100%;
+    height: 450px;
+    background: url(magic-moments-awards-pc-0927.jpg) no-repeat;
+}
+.footer{
+    width: 100%;
+    height: 350px;
+    background-color: black;
+    color: #fff;
+    display: flex;
+    justify-content: space-between; 
+    padding-top: 40px;  
 }
